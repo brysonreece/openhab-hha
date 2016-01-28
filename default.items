@@ -1,0 +1,8 @@
+Group All
+
+Switch Outlet_One  "Outlet One"   (ALL)   { exec=">[ON:'codesend ON_CODE_1'] >[OFF:'codesend OFF_CODE_1']" }
+Switch Outlet_Two  "Outlet Two"   (ALL)   { exec=">[ON:'codesend ON_CODE_2'] >[OFF:'codesend OFF_CODE_2']" }
+Switch Outlet_Three  "Outlet Three"   (ALL)   { exec=">[ON:'codesend ON_CODE_3'] >[OFF:'codesend OFF_CODE_3']" }
+Switch Outlet_Four  "Outlet Four"   (ALL)   { exec=">[ON:'codesend ON_CODE_4'] >[OFF:'codesend OFF_CODE_4']" }
+Switch Outlet_Five  "Outlet Five"   (ALL)   { exec=">[ON:'codesend ON_CODE_5'] >[OFF:'codesend OFF_CODE_5']" }
+

@@ -1,0 +1,11 @@
+sitemap demo label="Wireless Outlets"
+{
+	Frame {
+		Switch item=Outlet_One label="Outlet One"
+		Switch item=Outlet_Two label="Outlet Two"
+		Switch item=Outlet_Three label="Outlet Three"
+		Switch item=Outlet_Four label="Outlet Four"
+		Switch item=Outlet_Five label="Outlet Five"
+	}
+}
+
